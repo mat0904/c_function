@@ -1,8 +1,8 @@
 # **c_function**
 
 ## Basical c function : 
-- string function
-- math function
+## - string function
+## - math function
 
 ### String:
 - my_strcat
