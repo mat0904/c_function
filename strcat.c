@@ -18,7 +18,6 @@ void my_strcat(char *destination, char const *source)
     int len = my_strlen(destination);
     int total_len = len + my_strlen(source);
     for (int i = len + 1; i < total_len; i++){
-        *(destination + i) = *(source + i); 
+        *(destination + i) = *(source + i);
     }
-    
 }
